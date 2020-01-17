@@ -1,0 +1,11 @@
+C:\Users\RYAN\source\repos\Seven-Segment_ENRIQUEZ\bin\Debug\Seven-Segment_ENRIQUEZ.exe.config
+C:\Users\RYAN\source\repos\Seven-Segment_ENRIQUEZ\bin\Debug\Seven-Segment_ENRIQUEZ.exe
+C:\Users\RYAN\source\repos\Seven-Segment_ENRIQUEZ\bin\Debug\Seven-Segment_ENRIQUEZ.pdb
+C:\Users\RYAN\source\repos\Seven-Segment_ENRIQUEZ\bin\Debug\Seven-Segment_ENRIQUEZ.xml
+C:\Users\RYAN\source\repos\Seven-Segment_ENRIQUEZ\obj\Debug\Seven-Segment_ENRIQUEZ.vbprojAssemblyReference.cache
+C:\Users\RYAN\source\repos\Seven-Segment_ENRIQUEZ\obj\Debug\Seven_Segment_ENRIQUEZ.Form1.resources
+C:\Users\RYAN\source\repos\Seven-Segment_ENRIQUEZ\obj\Debug\Seven_Segment_ENRIQUEZ.Resources.resources
+C:\Users\RYAN\source\repos\Seven-Segment_ENRIQUEZ\obj\Debug\Seven-Segment_ENRIQUEZ.vbproj.GenerateResource.cache
+C:\Users\RYAN\source\repos\Seven-Segment_ENRIQUEZ\obj\Debug\Seven-Segment_ENRIQUEZ.exe
+C:\Users\RYAN\source\repos\Seven-Segment_ENRIQUEZ\obj\Debug\Seven-Segment_ENRIQUEZ.xml
+C:\Users\RYAN\source\repos\Seven-Segment_ENRIQUEZ\obj\Debug\Seven-Segment_ENRIQUEZ.pdb
